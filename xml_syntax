@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<employee>
+   <ename>Pratik</ename>
+   <eno>1</eno>
+  <ecity>Pune</ecity>
+</employee>
+
+<employee>
+  <ename>Sunny</ename>
+   <eno>2</eno>
+  <ecity>Beed</ecity>
+</employee>
+</employees>
